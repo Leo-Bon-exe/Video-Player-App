@@ -10,3 +10,5 @@ A simple video player desktop application built using Electron, supporting:
 - Stream online videos via URL
 - Add subtitles in `.srt` format
 - HLS streaming support with `hls.js`
+
+![c](https://github.com/user-attachments/assets/fc4d8fb9-344c-4561-b6fd-f83b5c8f8a68)
